@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Petert",
+        "birthday": "1/1/2000",
+        "image": "C:/Users/longl/Documents/MindX/PythonProduct/lesson8/lesson8/img/63594bb56e72ba00095515ea-1667570302863-0.jpg",
+        "type": "Dog",
+        "sex": "Male"
+    },
+    {
+        "name": "abc",
+        "birthday": "1/1/2000",
+        "image": "C:/Users/longl/Documents/MindX/PythonProduct/lesson8/lesson8/img/63594bb56e72ba00095515ea-1666796496353-0-fotor-2023080116348.png",
+        "type": "Dog",
+        "sex": "Male"
+    }
+]

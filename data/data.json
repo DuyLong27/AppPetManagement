@@ -1,0 +1,25 @@
+{
+    "pets": [
+        {
+            "name": "Buddy",
+            "birthday": "01/03/1778",
+            "image": "C:/Users/longl/Documents/MindX/PythonProduct/lesson8/lesson8/img/63594bb56e72ba00095515ea-1667570302863-0.jpg",
+            "type": "Other",
+            "sex": "Male"
+        },
+        {
+            "name": "Kitty",
+            "birthday": "1/1/2000",
+            "image": "C:/Users/longl/Documents/MindX/PythonProduct/lesson8/lesson8/img/63594bb56e72ba00095515ea-1667570302863-0.jpg",
+            "type": "Cat",
+            "sex": "Female"
+        },
+        {
+            "name": "Peter123",
+            "birthday": "08/05/2044",
+            "image": "C:/Users/longl/Documents/MindX/PythonProduct/lesson8/lesson8/img/63594bb56e72ba00095515ea-1690393500489-0 (1).jpg",
+            "type": "Cat",
+            "sex": "Female"
+        }
+    ]
+}
